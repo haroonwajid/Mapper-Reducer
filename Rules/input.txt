@@ -1,0 +1,7 @@
+apple banana	3
+apple banana cherry	1
+apple banana grape	1
+apple cherry	2
+apple grape	1
+banana cherry	2
+banana grape	1
