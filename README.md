@@ -31,7 +31,7 @@ This task uses the output from Task 1 as input. A single MapReduce pair is used 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/frequency-association-mapreduce.git
+    git clone https://github.com/haroonwajid/Mapper-Reduce.git
     cd frequency-association-mapreduce
     ```
 
